@@ -12,4 +12,7 @@ This is a new edit
 
 This is another new edit
 
+This is for test some merge between branches
+
+
 ## End of file
