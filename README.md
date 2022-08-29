@@ -10,4 +10,6 @@ Addtional changes to the README to test the git diff command in git. More change
 
 This is a new edit
 
+This is another new edit
+
 ## End of file
